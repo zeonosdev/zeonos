@@ -239,4 +239,3 @@ void kernel_halt(void) {
     while (1) {
         __asm__("hlt");
     }
-}
