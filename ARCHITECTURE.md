@@ -1,5 +1,5 @@
 # ZeonOS Directory Structure
 
-ZeonOS adalah operating system x64 yang dibangun dari scratch.
+ZeonOS is an operating system with x64 bit.
 
 ## Struktur Direktori
